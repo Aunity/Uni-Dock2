@@ -26,7 +26,7 @@ class CLICommand:
     Hardware:
         gpu_device_id: 0
     Settings:
-        size: [30.0, 30.0, 30.0]
+        box_size: [30.0, 30.0, 30.0]
         task: screen
         search_mode: balance
     Preprocessing:
